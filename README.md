@@ -1,1 +1,2 @@
 # muathu
+git init
